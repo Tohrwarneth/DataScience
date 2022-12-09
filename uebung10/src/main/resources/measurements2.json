@@ -1,0 +1,6 @@
+{ "timestamp": "1639499333", "machineId": "87923", "sensor": "temperature", "value": 35.3 }
+{ "timestamp": "1639499339", "machineId": "87923", "sensor": "temperature", "value": 55.2 }
+{ "timestamp": "1639499339", "machineId": "87923", "sensor": "pressure", "value": 2.1 }
+{ "timestamp": "1639499350", "machineId": "87924", "sensor": "temperature", "value": 27.3 }
+{ "timestamp": "1639499350", "machineId": "87924", "sensor": "pressure", "value": 5.3 }
+STOP
