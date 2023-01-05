@@ -7,6 +7,12 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Camel Example for Data Science Class</name>
 
+	<parent>
+		<groupId>de.hstr</groupId>
+		<artifactId>data-science</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+	</parent>
+
 	<properties>
 		<maven.compiler.source>11</maven.compiler.source>
 		<maven.compiler.target>11</maven.compiler.target>
